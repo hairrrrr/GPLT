@@ -141,11 +141,7 @@ int main(void)
 
 ## L1-003 **个位数统计** (15分)
 
-![](D:\图片\A pic\OJ\2.png)
-
-
-
-
+![](https://hairrrrr.github.io/assets/2020-11-22-2.png)
 
 C++
 

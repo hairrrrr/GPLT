@@ -369,6 +369,8 @@ M：1 0 X 9 8 7 6 5 4 3 2
 All passed
 ```
 
+### 123
+
 C++
 
 ```cpp
@@ -415,4 +417,11 @@ int main(void)
 		cout << "All passed" << endl;
 }
 ```
+
+
+
+
+
+
+
 

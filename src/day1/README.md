@@ -353,7 +353,7 @@ int main(void)
 
 ### 输入格式：
 
-![](D:\图片\A pic\OJ\1.png)
+![](https://hairrrrr.github.io/assets/2020-11-22-1.png)
 
 ### 输出格式：
 
